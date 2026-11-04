@@ -63,11 +63,6 @@ Analyzed crime datasets using Python to identify crime patterns, trends, and hig
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Machine Learning, GIS
 
-### 2. Netflix Data Analysis
-Performed data cleaning, exploratory data analysis, and business insights generation using Netflix data.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib
-
 ### 3. LLM Guardrails
 Exploring techniques to build safer and more controlled LLM-powered applications.
 
@@ -83,10 +78,6 @@ Developed a system to monitor drinking water quality using sensors and real-time
 
 **Technologies:** ESP32, pH Sensor, TDS Sensor, Turbidity Sensor, Blynk Cloud
 
-### 6. Smart Scrum Doc
-Developed a web application for managing Scrum-related documentation.
-
-**Technologies:** Python, Django, SQLite
 
 ## 📊 GitHub Statistics
 
@@ -97,8 +88,8 @@ Developed a web application for managing Scrum-related documentation.
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Haresh-reddy
-- LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional email address
+- LinkedIn: www.linkedin.com/in/atla-haresh
+- Email: atlaharesh145@gmail.com
 
 ---
 
