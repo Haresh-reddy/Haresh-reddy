@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atla Haresh Kumar 👋</h1>
+![Atla Haresh Kumar banner](banner.png)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Aspiring+AI%2FML+Engineer;Data+Analyst+%26+Data+Science+Fresher;Python+%E2%80%A2+SQL+%E2%80%A2+Machine+Learning+%E2%80%A2+RAG" alt="Typing SVG" /></a>
